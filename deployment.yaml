@@ -48,3 +48,4 @@ spec:
       - backend:
         serviceName: devstarter-service
         servicePort: 80
+
